@@ -1,0 +1,23 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.left-side {
+    background-image: url('/assets/img/image.jpeg');
+   background-size: cover;
+    background-position: center;
+    height: 100%;
+    width: 50%;
+}
+
+.right-side {
+    background-color: #f4f4f4;
+    padding: 20px;
+    width: 50%;
+}
+.social-icons a {
+    margin-bottom: 10px;
+}
